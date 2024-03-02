@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "exo00.C": "cpp",
+        "unistd.h": "c"
+    }
+}
